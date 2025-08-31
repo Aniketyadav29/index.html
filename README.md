@@ -23,7 +23,8 @@ HTML tag is a container for content or other HTML tags. For example, a paragraph
 
 > HTML is not case-sensitive.
 For example, 
-<html> is the same as <HTML>.
+>> M is the same as m.
+>> <html> is same the <HTML>
 
  ## 🛠️ Basic HTML Page Structure
 A basic HTML document has a specific structure:
