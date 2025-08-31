@@ -40,37 +40,35 @@ A basic HTML document has a specific structure:
 
 ## 📝 Common HTML Tags and Attributes
 
-HTML Attributes: Attributes are used to add more information to a tag. For example, 
+# HTML Attributes: Attributes are used to add more information to a tag. For example, 
 
-<html lang="en"> specifies the language of the document as English.
+>> <html lang="en"> specifies the language of the document as English.
 
-Heading Tags (<h1> to <h6>): Used to display headings. 
+>> Heading Tags (<h1> to <h6>): Used to display headings. 
 
-<h1> is the most important heading, and <h6> is the least important.
+>> <h1> is the most important heading, and <h6> is the least important.
 
-Paragraph Tag (<p>): Used for adding paragraphs to your page.
+>> Paragraph Tag (<p>): Used for adding paragraphs to your page.
 
-Anchor Tag (<a>): Used to create links.
+>> Anchor Tag (<a>): Used to create links.
 
 Example: 
-<a href="https://google.com">Google</a>.
+>>  <a href="https://google.com">Google</a>.
 
 Use 
-target="_main" to open a link in a new tab.
+>> target="_main" to open a link in a new tab.
 
-You can also make an image a clickable link by wrapping the 
-<img> tag inside an <a> tag.
+>>You can also make an image a clickable link by wrapping the 
+>> <img> tag inside an <a> tag.
 
 Image Tag (<img>): Used to add images.
 
 Example: 
         <img src="/image.png" alt="Random Image">. The 
 
-src attribute specifies the image source, which can be a relative URL.
+ src attribute specifies the image source, which can be a relative URL.You can set the height and width of an image using attributes, like 
 
-You can set the height and width of an image using attributes, like 
-
-<img src="link" height=50px> or <img src="link" width=50px>.
+>> <img src="link" height=50px> or <img src="link" width=50px>.
 
 Line Break Tag (<br>): Adds a line break, or a next line, to your page.
 
