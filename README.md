@@ -18,11 +18,10 @@ For example, a paragraph is an element with an opening
  Most HTML elements have both an opening and a closing tag with content in between. Some tags, like 
  <br> for a line break, don't have content and are self-closing.
 
-
-> HTML is not case-sensitive.
+2. HTML is not case-sensitive.
 For example, 
 >> M is the same as m.
->> <html> is same the <HTML>
+>> p is same the P
 
  ## 🛠️ Basic HTML Page Structure
 A basic HTML document has a specific structure:
