@@ -1,7 +1,7 @@
 # Web Development Basics: HTML
 > This document provides an overview of fundamental web development concepts, focusing on HTML (HyperText Markup Language). HTML is the backbone of any webpage, providing the structure and content, while CSS handles the styling and JavaScript provides the logic. 
 
-💻 HTML: The Building Blocks of the Web
+## 💻 HTML: The Building Blocks of the Web
 
 HTML stands for HyperText Markup Language. It's the code used to structure a webpage and its content. The components used to design the structure of websites are called 
 
@@ -12,7 +12,7 @@ The default filename for a website's homepage is typically
 
 index.html 
 
-HTML tag is a container for content or other HTML tags. For example, a paragraph is an element with an opening 
+### HTML tag is a container for content or other HTML tags. For example, a paragraph is an element with an opening 
 
  > <p> tag and a closing </p> tag, with the content in between.
 
@@ -132,7 +132,7 @@ Ordered List (<ol>): Displays a numbered list. Each item is also an
 
 Tables (<table>): Used to represent data in a table format.
 
-<tr>: Used for a table row.
+<u> <tr>: Used for a table row. </u>
 
 <td>: Used for table data.
 
