@@ -8,7 +8,7 @@ HTML stands for HyperText Markup Language. It's the code used to structure a web
 
 ## HTML tags.
 
-The default filename for a website's homepage is typically 
+The default filename for a website's homepage is aniket
 
 index.html 
 
