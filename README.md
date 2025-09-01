@@ -34,17 +34,18 @@ A basic HTML document has a specific structure:
 
 <body>: This tag contains all the data that is rendered and displayed by the browser.
 
-### 📝 Common HTML Tags and Attributes
+## 📝 Common HTML Tags and Attributes
 
-# HTML Attributes: Attributes are used to add more information to a tag. For example, 
+### HTML Attributes: Attributes are used to add more information to a tag.
+For example, 
 
  <html lang="en"> specifies the language of the document as English.
 
- Heading Tags (<h1> to <h6>): Used to display headings. 
+#### Heading Tags (<h1> to <h6>): Used to display headings. 
 
  <h1> is the most important heading, and <h6> is the least important.
 
- Paragraph Tag (<p>): Used for adding paragraphs to your page.
+ Paragraph Tag (<p>):Used for adding paragraphs to your page.
 
  Anchor Tag (<a>): Used to create links.
 
@@ -80,9 +81,7 @@ Line Break Tag (<br>): Adds a line break, or a next line, to your page.
   
   <small> for smaller text.
   
-<sub> for <sub>subscript</sub> text (e.g., H_2O).
-
-<sup> for <sup>superscript</sup> text (e.g., A +B).
+<sub> for <sub>subscript</sub> text (e.g., H_2O)
 
 Horizontal Ruler (<hr>): Displays a horizontal line to separate content.
 
