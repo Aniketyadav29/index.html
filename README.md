@@ -20,8 +20,8 @@ For example, a paragraph is an element with an opening
 
 2. HTML is not case-sensitive.
 For example, 
->> M is the same as m.
->> p is same the P
+ M is the same as m.
+ p is same the P
 
  ## 🛠️ Basic HTML Page Structure
 A basic HTML document has a specific structure:
