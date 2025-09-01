@@ -14,12 +14,9 @@ index.html
 
 ### HTML tag is a container for content or other HTML tags. 
 For example, a paragraph is an element with an opening 
-
- > <p> tag and a closing </p> tag, with the content in between.
-
-> Most HTML elements have both an opening and a closing tag with content in between. Some tags, like 
-
- > <br> for a line break, don't have content and are self-closing.
+1. <p> tag and a closing </p> tag, with the content in between.
+ Most HTML elements have both an opening and a closing tag with content in between. Some tags, like 
+ <br> for a line break, don't have content and are self-closing.
 
 
 > HTML is not case-sensitive.
