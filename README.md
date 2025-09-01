@@ -29,12 +29,12 @@ A basic HTML document has a specific structure:
                                                 
   <html>: This is the root element of an HTML document. It is the parent of the 
 
->> <head> and <body> tags.
+><head> and <body> tags.
 <head>: This is a container for metadata, which is information about the document that isn't displayed on the page.
 
->> <title>: Sets the title of the page, which appears in the browser tab.
+><title>: Sets the title of the page, which appears in the browser tab.
 
->>  <body>: This tag contains all the data that is rendered and displayed by the browser.
+><body>: This tag contains all the data that is rendered and displayed by the browser.
 
 ## 📝 Common HTML Tags and Attributes
 
