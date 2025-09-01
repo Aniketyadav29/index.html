@@ -12,7 +12,8 @@ The default filename for a website's homepage is typically
 
 index.html 
 
-### HTML tag is a container for content or other HTML tags. For example, a paragraph is an element with an opening 
+### HTML tag is a container for content or other HTML tags. 
+For example, a paragraph is an element with an opening 
 
  > <p> tag and a closing </p> tag, with the content in between.
 
