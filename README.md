@@ -77,7 +77,6 @@ You can also make an image a clickable link by wrapping the
 
 <img> tag inside an <a> tag.
 
-
 Image Tag (<img>): Used to add images.
 
 Example: 
@@ -96,32 +95,21 @@ Line Break Tag (<br>): Adds a line break, or a next line, to your page.
 
 Text Formatting Tags:
 
-
 <b> for bold text.
-
 
 <i> for italic text.
 
-
 <u> for <u>underline</u> text.
-
 
 <big> for bigger text.
 
-
 <small> for smaller text.
-
 
 <sub> for <sub>subscript</sub> text (e.g., H_2O).
 
-
-<sup> for <sup>superscript</sup> text (e.g., A 
-n
- +B).
-
+<sup> for <sup>superscript</sup> text (e.g., A+B).
 
 Horizontal Ruler (<hr>): Displays a horizontal line to separate content.
-
 
 Preformatted Text (<pre>): Displays text exactly as it's written in the code, preserving spaces and line breaks.
 
