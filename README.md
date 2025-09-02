@@ -905,8 +905,6 @@ Select (<select>): Creates a dropdown list with multiple <option> tags.
 
 ### 🎬 Multimedia and Embedding
 
-### 🎬 Multimedia and Embedding
-
 * [cite_start]**`Iframe` (`<iframe>`)**: Used to embed one website inside another[cite: 249].
 * [cite_start]**`Video` (`<video>`)**: Used to embed a video[cite: 251]. It has several attributes:
     * [cite_start]**`controls`**: Adds video controls[cite: 254].
