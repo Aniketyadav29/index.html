@@ -140,6 +140,7 @@ Preformatted Text (<pre>): Displays text exactly as it's written in the code, pr
 | **Inside `<main>`** | `<section>` | Used for a section on your page. |
 | | `<article>` | Used for an article on your page. |
 | | `<aside>` | Used for content aside from the main content, such as advertisements. |
+
 📂 Lists and Tables
 
 # 💻 Lists & Tables in HTML
@@ -170,8 +171,6 @@ This document provides a quick reference for HTML tags used to create lists and 
 | **Table Head** | `<thead>` | [cite_start]Used to wrap the table's header content[cite: 195]. |
 | **Table Body** | `<tbody>` | [cite_start]Used to wrap the table's body content[cite: 195]. |
 | **Attribute** | `colspan` | [cite_start]Creates cells that span across multiple columns[cite: 198, 199]. |
-
-📝 Forms and User Input
 
 ### 📝 Forms and User Input
 
@@ -211,10 +210,6 @@ loop: Makes the video repeat.
 
 
 autoplay: Automatically plays the video when the page loads.
-
-
-
-
 
 
 i want to underline a specific word in readme.md at my github so suggest me shortcutkeys to underline and many other shortcutkeys with their references
