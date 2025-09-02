@@ -10,9 +10,7 @@ HTML tags.
 
 The default filename for a website's homepage is typically 
 
-index.html.
-
-An 
+index.html
 
 HTML tag is a container for content or other HTML tags. For example, a paragraph is an element with an opening 
 
@@ -23,9 +21,7 @@ Most HTML elements have both an opening and a closing tag with content in betwee
 <br> for a line break, don't have content and are self-closing.
 
 
-HTML is 
-
-not case-sensitive. For example, 
+HTML is not case-sensitive. For example, 
 
 <html> is the same as <HTML>.
 
