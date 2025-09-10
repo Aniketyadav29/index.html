@@ -218,10 +218,6 @@ Bold: Use two asterisks (**) or two underscores (__) around the text.
 
 Italic: Use a single asterisk (*) or a single underscore (_) around the text.
 
-*italic text* or _italic text_
-
-Strikethrough: Use two tildes (~~) around the text.
-
 ~~strikethrough text~~
 
 Headings
