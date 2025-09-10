@@ -28,23 +28,13 @@ HTML Attributes: Attributes are used to add more information to a tag. For examp
 
 specifies the language of the document as English.
 
-Heading Tags (
+Heading Tags :- Used to display headings.
 
-to
+H1 :- is the most important heading, 
 
+H6:- is the least important.Paragraph 
 
-
-): Used to display headings.
-
-
-
-is the most important heading, and
-
-
-
-is the least important.Paragraph Tag (
-
-): Used for adding paragraphs to your page.
+Paragraph Tag :-Used for adding paragraphs to your page.
 
 Anchor Tag (): Used to create links.
 
@@ -54,53 +44,19 @@ Google.
 
 Use
 
-target="_main" to open a link in a new tab.
+   target="_main" to open a link in a new tab.
 
-You can also make an image a clickable link by wrapping the
+   You can also make an image a clickable link by wrapping the
 
- tag inside an tag.
+  tag inside an tag.
 
-Image Tag (): Used to add images.
+  Image Tag (): Used to add images.
 
 Example:
 
-. The
+. The src attribute specifies the image source, which can be a relative URL.
 
-src attribute specifies the image source, which can be a relative URL.
-
-You can set the height and width of an image using attributes, like
-
- or .
-
-Line Break Tag (
-
-): Adds a line break, or a next line, to your page.
-
-Text Formatting Tags:
-
-for bold text.
-
-for italic text.
-
-for underline text.
-
-for bigger text.
-
-for smaller text.
-
-for subscript text (e.g., H_2O).
-
-for superscript text (e.g., A+B).
-
-Horizontal Ruler (
-
-): Displays a horizontal line to separate content.Preformatted Text (
-
-): Displays text exactly as it's written in the code, preserving spaces and line breaks.📦 Block vs. Inline Elements
-
-
-
-CategoryElementDescriptionBlock-Level<div>Takes up the full width available and starts on a new line. It's a common container for other elements.Inline-Level<span>Takes only as much width as its content needs and does not start on a new line. It's a common container for other elements.Semantic Tags<header>Used to define the header of a page or section.<main>Used to define the main content of a document.<footer>Used to define the footer of a page or section.Inside <main><section>Used for a section on your page.<article>Used for an article on your page.<aside>Used for content aside from the main content, such as advertisements.
+You can set the height and width of an image using attributes, like or .Line Break Tag :- Adds a line break, or a next line, to your page.
 
 📂 Lists and Tables
 
@@ -153,15 +109,9 @@ Here are some common form elements:
 [cite_start]Select (<select>): Creates a dropdown list with multiple <option> tags[cite: 242].
 
 🎬 Multimedia and Embedding
-
-
-
 Iframe (<iframe>): Used to embed another website within your own webpage.
 
 Video (
-
-
-
 controls: Adds video controls like play and pause.
 
 height and width: Sets the dimensions of the video.
