@@ -856,7 +856,7 @@ Tables are used to represent real-life table data.
 colspan attribute: Used to create cells that span over multiple columns.
 
 
-### 📝 Forms and User Input
+## 📝 Forms and User Input
 
 Forms (<form>) are used to collect data from the user. The 
 
