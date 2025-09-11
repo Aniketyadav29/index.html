@@ -80,7 +80,7 @@ CategoryTagDescriptionUnordered List<ul>[cite_start]Displays a bulleted list[cit
 
 ElementTagDescriptionTable<table>[cite_start]The container for all table content[cite: 175].Table Row<tr>[cite_start]Used to display a table row[cite: 168].Table Data<td>[cite_start]Used to display the data within a table cell[cite: 170].Table Header<th>[cite_start]Used to display a table header[cite: 172].Caption<caption>[cite_start]Adds a caption to the table[cite: 191].Table Head<thead>[cite_start]Used to wrap the table's header content[cite: 195].Table Body<tbody>[cite_start]Used to wrap the table's body content[cite: 195].Attributecolspan[cite_start]Creates cells that span across multiple columns[cite: 198, 199].
 
-📝 Forms and User Input
+## 📝 Forms and User Input
 
 [cite_start]Forms (<form>) are used to collect data from users, such as for sign-ups or login pages[cite: 206, 207].
 
