@@ -430,7 +430,7 @@ Text Formatting Tags:
 
 Preformatted Text : Displays text exactly as it's written in the code, preserving spaces and line breaks.
 
-📦 Block vs. Inline Elements
+## 📦 Block vs. Inline Elements
 
 Elements can be categorized as block-level or inline-level.
 
