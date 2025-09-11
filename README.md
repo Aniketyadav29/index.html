@@ -22,7 +22,7 @@ M is the same as m.
 
 : This declaration tells the browser that you're using HTML5. : This is the root element of an HTML document. It is the parent of the and tags. : This is a container for metadata, which is information about the document that isn't displayed on the page. <title>: Sets the title of the page, which appears in the browser tab. : This tag contains all the data that is rendered and displayed by the browser.
 
-📝 Common HTML Tags and Attributes
+## 📝 Common HTML Tags and Attributes
 
 HTML Attributes: Attributes are used to add more information to a tag. For example,
 
