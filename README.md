@@ -660,9 +660,7 @@ Ordered List (): Displays a numbered list. Each item is also an
 
 tag.
 
-Tables
-
-Tables are used to represent real-life table data.
+Tables:- Tables are used to represent real-life table data.
 
 : Adds a caption to the table.: Used for table data.: Used for a table header.
 
