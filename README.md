@@ -72,7 +72,7 @@ This document provides a quick reference for HTML tags used to create lists and 
 
 CategoryTagDescriptionUnordered List<ul>[cite_start]Displays a bulleted list[cite: 156, 157].Ordered List<ol>[cite_start]Displays a numbered list[cite: 161, 162].List Item<li>[cite_start]Used for individual items in both unordered and ordered lists[cite: 158, 163].
 
-📊 Tables
+### 📊 Tables
 
 [cite_start]Tables are used to represent real-life table data[cite: 167].
 
