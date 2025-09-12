@@ -128,9 +128,7 @@ GitHub Flavored Markdown (GFM) does not have a dedicated shortcut key or native 
 
 
 
-Underline Text in Markdown
-
-To underline a specific word or phrase, use the HTML tag:
+Underline Text in Markdown :- To underline a specific word or phrase, use the HTML tag:
 
 HTML
 
@@ -326,7 +324,7 @@ For example, 
 
 
 
- ## 🛠️ Basic HTML Page Structure
+ ### 🛠️ Basic HTML Page Structure
 
 A basic HTML document has a specific structure:
 
