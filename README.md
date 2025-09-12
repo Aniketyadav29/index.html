@@ -618,7 +618,7 @@ Preformatted Text ()
 
 Used to display text as it is, without ignoring spaces and next lines.
 
-📦 Block vs. Inline Elements
+### 📦 Block vs. Inline Elements
 
 Elements can be categorized as block-level or inline-level.
 
