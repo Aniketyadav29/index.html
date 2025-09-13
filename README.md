@@ -43,8 +43,7 @@ Example:
 Google.
 
 Use
-
-   target="_main" to open a link in a new tab.
+     target="_main" to open a link in a new tab.
 
    You can also make an image a clickable link by wrapping the
 
