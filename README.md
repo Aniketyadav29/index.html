@@ -47,7 +47,7 @@ Use
 
    You can also make an image a clickable link by wrapping the
 
-  tag inside an tag.
+ tag inside an tag.
 
   Image Tag (): Used to add images.
 
