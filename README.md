@@ -10,7 +10,7 @@ HTML tags.
          The default filename for a website's homepage is typically
 
 index.html:-
-           HTML tag is a container for content or other HTML tags. For example, a paragraph is an element with an opening
+          HTML tag is a container for content or other HTML tags. For example, a paragraph is an element with an opening
 
 tag and a closintag, with the content in between Most HTML elements have both an opening and a closing tag with content in between. Some tags, like for a line break, don't have content and are self-closing.
 
