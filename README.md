@@ -14,9 +14,9 @@ index.html:-
 
 tag and a closintag, with the content in between Most HTML elements have both an opening and a closing tag with content in between. Some tags, like for a line break, don't have content and are self-closing.
 
-HTML is not case-sensitive. For example,
-
-M is the same as m.
+HTML is not case-sensitive.
+For example,
+               M is the same as m.
 
 🛠️ Basic HTML Page Structure A basic HTML document has a specific structure:
 
