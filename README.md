@@ -18,7 +18,7 @@ HTML is not case-sensitive.
 For example,
                M is the same as m.
 
-🛠️ Basic HTML Page Structure A basic HTML document has a specific structure:
+## 🛠️ Basic HTML Page Structure A basic HTML document has a specific structure:
 
 : This declaration tells the browser that you're using HTML5. : This is the root element of an HTML document. It is the parent of the and tags. : This is a container for metadata, which is information about the document that isn't displayed on the page. <title>: Sets the title of the page, which appears in the browser tab. : This tag contains all the data that is rendered and displayed by the browser.
 
